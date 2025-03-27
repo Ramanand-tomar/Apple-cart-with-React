@@ -6,7 +6,7 @@ import All_products from "./components/All_products"
 import Product_details from "./pages/Product_details"
 import ProductBuCategory from "./pages/ProductBuCategory"
 import Search_products from "./pages/Search_products"
-import Trending_Slider from "./components/Trending_Slider"
+// import Trending_Slider from "./components/Trending_Slider"
 
 
 const App = () => {
